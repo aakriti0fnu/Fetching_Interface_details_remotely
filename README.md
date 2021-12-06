@@ -13,7 +13,7 @@ We have used VCL machine of our college(NCSU) allocated for students
 - Run the program using - `python3 interface_quest3_snm.py`
 
 - On the prompt, `Enter the remote device's IP address`, please enter the IP address of the remote machine `152.x.xx.x`
-- On the prompt `Enter the username:`(Unity ID)
+- On the prompt `Enter the username:`Machine's user name
 - `Password:` if the machine have any
 
 - Now, you'll be prompted to `Enter your choice - Type?, IP?, MAC?, Exit?:` Please type one option out the listed.
